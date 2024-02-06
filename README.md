@@ -1,4 +1,4 @@
-## Domain-To-IP
+## Domain-To-IP by Jolhus
 # With this tool you can find the IP address of any website.🔥
 ## Installation
 * `apt update`
